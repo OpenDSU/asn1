@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2025 OpenDSU
+Copyright (c) 2017 Fedor Indutny
+
+This project is based on work from the asn1.js project (https://github.com/indutny/asn1.js), which is licensed under the following terms:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
